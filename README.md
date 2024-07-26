@@ -1,21 +1,11 @@
-# vue-test
+# Тестовое задание на Vue без готовых ui компонентов
 
-> A Vue.js project
+## Задачи
 
-## Build Setup
+### 1) Создайте таблицу и кнопку, вызывающую модальное окно с формой.
+### 2) Сохраняйте данные из формы в таблицу. Данные должны сохраняться в LocalStorage при обновлении страницы.
+### 3) Добавьте в форму select с выбором родителя (любого из уже сохранённых пользователей).  
+### 4) Добавьте в таблицу поддержку вложенных уровней. Глубина вложенности должна быть неограниченной, то есть родителем может быть любой существующий пользователь.
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![image](https://github.com/user-attachments/assets/2ffd223a-a4cd-41b5-b4b8-a530cb4e21d4)
+### На изображении представлен мокап интерфейса. Стилизация интерфейса выполнялась по усмотроеннию выполняющего задания
